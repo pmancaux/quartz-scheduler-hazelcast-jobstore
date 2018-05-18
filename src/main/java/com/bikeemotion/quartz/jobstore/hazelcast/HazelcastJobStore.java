@@ -59,7 +59,7 @@ import static org.quartz.impl.matchers.StringMatcher.StringOperatorName.EQUALS;
 
 /**
  *
- * @author Flavio Ferreira test 2
+ * @author Flavio Ferreira test 4
  *
  *         Thanks Antoine Méausoone for starting the work.
  */
